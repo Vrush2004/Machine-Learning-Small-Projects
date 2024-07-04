@@ -1,0 +1,8 @@
+Install following Libraries:
+1)fastapi
+2)uvicorn
+3)pydantic
+4)json
+5)pickle
+6)scikit-learn
+7)requests
